@@ -1,3 +1,5 @@
+// link : https://app.codesignal.com/challenge/BkPXssgpn7ZoDXhmD
+
 int squareSolution(vector<vector<bool>> a){
     //basic O(n ^ 2) solution 
     int dc[] = {-1, 1, 0, 0};
