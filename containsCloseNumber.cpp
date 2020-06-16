@@ -1,3 +1,5 @@
+// link : https://app.codesignal.com/challenge/x7heKGPZsaR3oKrc3
+
 bool containsCloseNums(std::vector<int> nums, int k) {
     unordered_map<int, vector<int>> a;
     for(int i = 0;i<nums.size();i++){
